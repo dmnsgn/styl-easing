@@ -10,7 +10,7 @@ $ npm install styl-easing --save
 ## Usage
 
 ```Stylus
-@import "../node_modules/styl-easing/_easings.scss";
+@import "../node_modules/styl-easing/_easings.styl";
 
 .element {
   transition: all 0.2s easeOutSine;
