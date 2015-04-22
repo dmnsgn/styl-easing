@@ -12,9 +12,9 @@ $ npm install styl-easing --save
 ```Stylus
 @import "../node_modules/styl-easing/_easings.styl";
 
-.element {
+.element
   transition: all 0.2s easeOutSine;
-}
+
 ```
 
 ## License
