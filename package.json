@@ -1,5 +1,6 @@
 {
   "name": "styl-easing",
+  "main": "_easings.styl",
   "version": "1.0.2",
   "description": "Easing variables for stylus",
   "repository": {
