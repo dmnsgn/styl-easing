@@ -1,7 +1,7 @@
 {
   "name": "styl-easing",
   "main": "_easings.styl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easing variables for stylus",
   "repository": {
     "type": "git",
